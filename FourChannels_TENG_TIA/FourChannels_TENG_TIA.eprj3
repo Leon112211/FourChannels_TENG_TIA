@@ -50,8 +50,8 @@
         "name": "Schematic1",
         "board": "4380b2661d74f143",
         "source": "",
-        "version": "1792410697512",
-        "updateTime": 1792515847804
+        "version": "1795562932326",
+        "updateTime": 1795562932326
       }
     },
     "sheets": {
@@ -61,8 +61,8 @@
         "schematic_uuid": "5f5ab86ec33d447b",
         "zIndex": 1,
         "source": "",
-        "version": "1795552438362",
-        "updateTime": 1795552438362
+        "version": "1795562932326",
+        "updateTime": 1795562932326
       }
     },
     "pcbs": {
@@ -70,19 +70,18 @@
         "uuid": "b606856830de920e",
         "title": "PCB1",
         "board": "4380b2661d74f143",
-        "zIndex": null,
         "parent_uuid": "",
         "source": "",
-        "version": "1795557683282",
-        "updateTime": 1795557683282
+        "version": "1795563308244",
+        "updateTime": 1795563308244
       }
     },
     "panels": {},
     "blockSymbols": {},
     "owner": {
-      "uuid": "D:\\JLC_Projects",
-      "username": "",
-      "nickname": ""
-    }
+      "uuid": "4be2ba175af84c249e708838eb80bfeb"
+    },
+    "simSchematics": {},
+    "simulations": {}
   }
 }
