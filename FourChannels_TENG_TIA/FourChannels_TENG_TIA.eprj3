@@ -1,0 +1,88 @@
+{
+  "name": "FourChannels_TENG_TIA",
+  "owner_uuid": "4be2ba175af84c249e708838eb80bfeb",
+  "creator_uuid": "4be2ba175af84c249e708838eb80bfeb",
+  "created_at": "2026-11-25 06:31:51",
+  "updated_at": "2026-11-25 06:31:51",
+  "modifier_uuid": "4be2ba175af84c249e708838eb80bfeb",
+  "content": "",
+  "archive": false,
+  "cbb_project": 0,
+  "thumb": "",
+  "ticket": 1,
+  "g_ticket": 1,
+  "boards": [],
+  "block_symbol_attrs_groups": {},
+  "default_sheet": "f4cdec2f77d01deb",
+  "branch_uuid": "",
+  "pcb_count": 0,
+  "format": "folder",
+  "config": {
+    "defaultSheet": "f4cdec2f77d01deb",
+    "settings": {
+      "UNIVERSAL": {
+        "dataType": "UNIVERSAL",
+        "data": {
+          "allowLibRename": true,
+          "defaultNetName": true,
+          "wireMultipleNet": true,
+          "netFlagCrossLayerConnection": true,
+          "netLabelCrossPageConnection": true,
+          "busGenerateNetClass": true,
+          "relevanceDisplayRow": "SINGLE",
+          "relevanceBelongSchPage": "NAME",
+          "relevanceLocation": "ZONE"
+        }
+      }
+    }
+  },
+  "profile": {
+    "boards": {
+      "4380b2661d74f143": {
+        "uuid": "4380b2661d74f143",
+        "title": "Board1",
+        "zIndex": 1
+      }
+    },
+    "schematics": {
+      "5f5ab86ec33d447b": {
+        "uuid": "5f5ab86ec33d447b",
+        "name": "Schematic1",
+        "board": "4380b2661d74f143",
+        "source": "",
+        "version": "1792410697512",
+        "updateTime": 1792515847804
+      }
+    },
+    "sheets": {
+      "fa02e34e44a95e1b": {
+        "uuid": "fa02e34e44a95e1b",
+        "title": "P1",
+        "schematic_uuid": "5f5ab86ec33d447b",
+        "zIndex": 1,
+        "source": "",
+        "version": "1795552438362",
+        "updateTime": 1795552438362
+      }
+    },
+    "pcbs": {
+      "b606856830de920e": {
+        "uuid": "b606856830de920e",
+        "title": "PCB1",
+        "board": "4380b2661d74f143",
+        "zIndex": null,
+        "parent_uuid": "",
+        "source": "",
+        "version": "1795557683282",
+        "updateTime": 1795557683282
+      }
+    },
+    "panels": {},
+    "blockSymbols": {},
+    "owner": {
+      "uuid": "D:\\JLC_Projects",
+      "username": "",
+      "nickname": ""
+    }
+  }
+}
